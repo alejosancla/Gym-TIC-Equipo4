@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Y7y35PYa4BmsALCuRESerEWdz0IaraeNGRJgPN50kRo0/Ikp+kRhNimzPjyz2mOc9oAi3sJ/EsCHMWwMoxQFQ==",
+  "success": true,
+  "projectFilePath": "E:\\Archivos\\MinTic\\GymTic\\GymTic.App\\GymTic.App.Dominio\\GymTic.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmr85\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jmr85\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
