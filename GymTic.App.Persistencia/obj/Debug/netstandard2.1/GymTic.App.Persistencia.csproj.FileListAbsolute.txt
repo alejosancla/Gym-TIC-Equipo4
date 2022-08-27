@@ -1,0 +1,9 @@
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\bin\Debug\netstandard2.1\GymTic.App.Persistencia.deps.json
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\bin\Debug\netstandard2.1\GymTic.App.Persistencia.dll
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\bin\Debug\netstandard2.1\GymTic.App.Persistencia.pdb
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.csprojAssemblyReference.cache
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.AssemblyInfoInputs.cache
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.AssemblyInfo.cs
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.dll
+E:\Archivos\MinTic\Gymtic\GymTic.App\GymTic.App.Persistencia\obj\Debug\netstandard2.1\GymTic.App.Persistencia.pdb
