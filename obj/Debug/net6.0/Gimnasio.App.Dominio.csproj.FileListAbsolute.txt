@@ -1,0 +1,12 @@
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\bin\Debug\net6.0\Gimnasio.App.Dominio.deps.json
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\bin\Debug\net6.0\Gimnasio.App.Dominio.dll
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\bin\Debug\net6.0\Gimnasio.App.Dominio.pdb
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.csproj.AssemblyReference.cache
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.AssemblyInfoInputs.cache
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.AssemblyInfo.cs
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.dll
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\refint\Gimnasio.App.Dominio.dll
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\Gimnasio.App.Dominio.pdb
+C:\Gimnasio\Gimnasio.App\Gimnasio.App.Dominio\obj\Debug\net6.0\ref\Gimnasio.App.Dominio.dll
