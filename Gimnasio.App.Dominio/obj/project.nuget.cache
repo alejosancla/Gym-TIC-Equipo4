@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+DOFOMudy3Rv8grTIr42PRe3LcgpM8SJXIlf7eD0CpjCOvH2DKLAwg+L/6EJz/6rPuyePjoOtj+YLrvDRquxA==",
+  "success": true,
+  "projectFilePath": "D:\\Gimnasio\\Gimnasio.App\\Gimnasio.App.Dominio\\Gimnasio.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ngali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
