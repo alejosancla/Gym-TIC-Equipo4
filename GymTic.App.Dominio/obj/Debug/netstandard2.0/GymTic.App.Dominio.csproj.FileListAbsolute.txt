@@ -1,0 +1,4 @@
+E:\Archivos\MinTic\Gymtic\GymTic.App\Gymtic.App.Dominio\obj\Debug\netstandard2.0\GymTic.App.Dominio.csprojAssemblyReference.cache
+E:\Archivos\MinTic\Gymtic\GymTic.App\Gymtic.App.Dominio\obj\Debug\netstandard2.0\GymTic.App.Dominio.AssemblyInfoInputs.cache
+E:\Archivos\MinTic\Gymtic\GymTic.App\Gymtic.App.Dominio\obj\Debug\netstandard2.0\GymTic.App.Dominio.AssemblyInfo.cs
+E:\Archivos\MinTic\Gymtic\GymTic.App\Gymtic.App.Dominio\obj\Debug\netstandard2.0\GymTic.App.Dominio.csproj.CoreCompileInputs.cache
